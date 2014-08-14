@@ -3,10 +3,7 @@ package proyecto;
 import java.io.File;
 import java.io.Serializable;
 
-/**
- *
- * @author campitos
- */
+
 public class Foto implements Serializable{
     
    private byte[] datosImage;
